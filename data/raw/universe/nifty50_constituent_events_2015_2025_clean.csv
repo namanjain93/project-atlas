@@ -8,7 +8,7 @@ effective_date,index,action,historical_symbol,normalized_symbol,source,validatio
 2015-09-28,NIFTY50,ADD,ADANIPORTS,ADANIPORTS,Historical NIFTY 50 constituent-change record; cross-checked,validated_secondary,
 2015-09-28,NIFTY50,REMOVE,NMDC,NMDC,Historical NIFTY 50 constituent-change record; cross-checked,validated_secondary,
 2016-04-01,NIFTY50,ADD,AUROPHARMA,AUROPHARMA,Historical NIFTY 50 constituent-change record; cross-checked,validated_secondary,
-2016-04-01,NIFTY50,ADD,BHARTIINFRATEL,BHARTIINFRATEL,Historical NIFTY 50 constituent-change record; cross-checked,validated_secondary,
+2016-04-01,NIFTY50,ADD,BHARTIINFRATEL,INFRATEL,Historical NIFTY 50 constituent-change record; cross-checked,validated_secondary,
 2016-04-01,NIFTY50,ADD,EICHERMOT,EICHERMOT,Historical NIFTY 50 constituent-change record; cross-checked,validated_secondary,
 2016-04-01,NIFTY50,REMOVE,CAIRN,CAIRN,Historical NIFTY 50 constituent-change record; cross-checked,validated_secondary,
 2016-04-01,NIFTY50,REMOVE,PNB,PNB,Historical NIFTY 50 constituent-change record; cross-checked,validated_secondary,
